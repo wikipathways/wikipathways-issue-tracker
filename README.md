@@ -1,3 +1,3 @@
 # WikiPathways issue tracker
 
-Here we are collecting bug reports / feature requests / etc. for WikiPathways
+Please submit your issues from now on here: https://github.com/wikipathways/wikipathways.org/issues
